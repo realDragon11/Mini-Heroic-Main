@@ -3,7 +3,6 @@ package com.realDragon.Heroic.desktop;
 import org.mini2Dx.desktop.DesktopMini2DxConfig;
 
 import com.badlogic.gdx.backends.lwjgl.DesktopMini2DxGame;
-
 import com.realDragon.Heroic.MyHeroic;
 
 public class DesktopLauncher {
