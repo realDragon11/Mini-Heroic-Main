@@ -9,6 +9,8 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		DesktopMini2DxConfig config = new DesktopMini2DxConfig(MyHeroic.GAME_IDENTIFIER);
 		config.vSyncEnabled = true;
+		config.width = 1600;
+		config.height = 900;
 		new DesktopMini2DxGame(new MyHeroic(), config);
 	}
 }

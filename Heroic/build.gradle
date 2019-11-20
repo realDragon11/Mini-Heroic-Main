@@ -69,6 +69,8 @@ project(":desktop") {
         compile project(":core")
         compile "org.mini2Dx:mini2Dx-desktop:$mini2DxVersion"
         compile "com.badlogicgames.gdx:gdx-tools:$gdxVersion"
+        
+        runtime "org.mini2Dx:mini2Dx-desktop:$mini2DxVersion"
     }
     parcl {
         exe {
