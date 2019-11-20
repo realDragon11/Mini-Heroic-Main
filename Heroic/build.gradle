@@ -79,7 +79,7 @@ project(":desktop") {
             applicationCategory = "public.app-category.adventure-games"
             displayName = "Heroic"
             identifier = "Heroic"
-            copyright = "Copyright 2019 Your Company Name"
+            copyright = "Copyright 2019 realDragon"
         }
         linux {
             vmArgs = ["-Xmx1g"]
