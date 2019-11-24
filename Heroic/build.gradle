@@ -53,8 +53,7 @@ project(":core") {
         compile "org.mini2Dx:mini2Dx-core:$minibusVersion"
         compile "com.badlogicgames.gdx:gdx-ai:$aiVersion"
         
-        compile "com.code-disaster.steamworks4j:steamworks4j:1.8.0"
-        compile 'org.jsoup:jsoup:1.12.1'
+       
     }
 }
 
